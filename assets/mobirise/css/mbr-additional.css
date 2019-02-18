@@ -1,6 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+
 
 
 
@@ -25,8 +29,8 @@
   font-size: 16px;
 }
 #header1-0 .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #header1-0 H1 {
   font-size: 48px;
@@ -43,8 +47,8 @@
   font-family: 'Playfair Display', sans-serif;
 }
 #header4-a .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #msg-box5-5 .mbr-section-title {
   font-size: 25px;
@@ -57,8 +61,8 @@
   font-size: 16px;
 }
 #msg-box5-5 .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #menu-2 .navbar-toggler {
   color: #2b2b2b;
@@ -83,8 +87,8 @@
   font-size: 16px;
 }
 #slider-4 .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #testimonials1-d .mbr-section-title {
   font-size: 25px;
@@ -117,16 +121,33 @@
 #msg-box4-r .mbr-section-title {
   font-size: 25px;
   font-family: 'Playfair Display', sans-serif;
+  text-align: left;
 }
 #msg-box4-r .lead P {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 14px;
-  text-align: right;
+  font-size: 15px;
+  text-align: left;
   color: #000000;
 }
+#msg-box4-r .btn {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
+}
+#msg-box5-19 .lead P {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
+#msg-box5-19 .mbr-section-title {
+  font-size: 25px;
+}
+#msg-box5-19 .btn {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
+}
 #form1-9 .btn {
-  font-family: 'Playfair Display', sans-serif;
-  font-size: 14px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 20px;
 }
 #form1-9 .mbr-section-title {
   font-size: 25px;
@@ -137,6 +158,23 @@
 
 
 
+#msg-box5-1c .mbr-section-title {
+  color: #ffffff;
+  font-size: 25px;
+  text-align: left;
+}
+#msg-box5-1c .lead P {
+  color: #ffffff;
+  font-size: 20px;
+  text-align: left;
+}
+#msg-box5-1f .mbr-section-title {
+  font-size: 25px;
+  text-align: left;
+}
+#msg-box5-1f .lead P {
+  text-align: left;
+}
 #menu-g .navbar-toggler {
   color: #2b2b2b;
 }
@@ -150,12 +188,21 @@
 }
 #msg-box5-12 .mbr-section-title {
   font-size: 25px;
+  color: #ffffff;
+  text-align: left;
 }
 #msg-box5-12 .lead P {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
+  color: #ffffff;
+  text-align: left;
 }
-
-
+#msg-box5-1g .mbr-section-title {
+  font-size: 25px;
+  text-align: left;
+}
+#msg-box5-1g .lead P {
+  text-align: left;
+}
 
 
 #menu-h .navbar-toggler {
@@ -168,18 +215,6 @@
 #menu-h .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
   font-size: 16px;
-}
-#slider-s H2 {
-  font-size: 25px;
-  color: #000000;
-}
-#slider-s P {
-  font-family: 'Open Sans', sans-serif;
-  color: #000000;
-  text-align: left;
-}
-#slider-s .btn {
-  font-family: 'Playfair Display', sans-serif;
 }
 
 
@@ -197,10 +232,6 @@
 #header2-v H1 {
   font-size: 36px;
 }
-#header2-w H1 {
-  font-size: 36px;
-  color: #000000;
-}
 
 
 #menu-p .navbar-toggler {
@@ -214,6 +245,27 @@
   font-family: 'Playfair Display', sans-serif;
   font-size: 16px;
 }
+#header2-z H1 {
+  font-size: 36px;
+}
+#header2-1a H1 {
+  font-size: 36px;
+}
+#header2-1b H1 {
+  font-size: 36px;
+}
+#header2-1l H1 {
+  font-size: 36px;
+}
+#header2-1m H1 {
+  font-size: 36px;
+}
+#header2-1n H1 {
+  font-size: 36px;
+}
+#header2-1o H1 {
+  font-size: 36px;
+}
 
 
 #menu-q .navbar-toggler {
@@ -226,6 +278,18 @@
 #menu-q .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
   font-size: 16px;
+}
+#msg-box3-16 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-16 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#form1-17 .mbr-section-title {
+  font-size: 25px;
+}
+#form1-17 .btn {
+  font-size: 20px;
 }
 
 
@@ -252,4 +316,20 @@
 #menu-13 .navbar-brand {
   font-family: 'Playfair Display', sans-serif;
   font-size: 16px;
+}
+
+
+#menu-1p .navbar-toggler {
+  color: #2b2b2b;
+}
+#menu-1p .nav-link {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 16px;
+}
+#menu-1p .navbar-brand {
+  font-family: 'Playfair Display', sans-serif;
+  font-size: 16px;
+}
+#header2-1q H1 {
+  font-size: 25px;
 }
