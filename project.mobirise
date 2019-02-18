@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#77af4b",
         "#0e0e0e",
         "#ff0040",
         "#0070ff",
         "#f52459",
         "#227ef4",
-        "#98d667",
-        "#000000"
+        "#98d667"
       ]
     },
     "path": "@PROJECT_PATH@",
