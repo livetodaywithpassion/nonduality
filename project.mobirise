@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "\bsailor-bob-adamson-nonduality",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -762,9 +762,9 @@
           "title": "Contact Form",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "form": {
-            "action": "adamson7@iinet.net.au",
+            "action": "nicholas2050@gmail.com",
             "alerts": {
-              "success": "Thank you!"
+              "success": "You are already That"
             },
             "fields": {
               "name": {
@@ -1846,9 +1846,9 @@
           "title": "Contact Form",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger-outline btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Send</a>",
           "form": {
-            "action": "adamson7@iinet.net.au",
+            "action": "nicholas2050@gmail.com",
             "alerts": {
-              "success": "Thank you!"
+              "success": "Thank you"
             },
             "fields": {
               "name": {
