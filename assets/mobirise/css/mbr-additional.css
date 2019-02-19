@@ -1772,14 +1772,17 @@ body {
   color: #efefef !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/mbr-1920x1200.jpg");
+  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
 }
 .cid-qTkA127IK8 H1 {
-  color: #77af4b;
+  color: #ffffff;
   text-align: center;
 }
 .cid-qTkA127IK8 H3 {
   color: #98d667;
+}
+.cid-qTkA127IK8 SPAN {
+  color: #ffffff;
 }
 .cid-ritbemNU6t {
   padding-top: 15px;
